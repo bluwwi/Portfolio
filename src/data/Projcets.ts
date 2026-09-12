@@ -16,14 +16,13 @@ export interface Project {
 export const projectData: Project[] = [
   {
     id: 0,
-    type: 'image',
-    title: 'TrackYou',
-    subtitle: 'Track your coding activity.',
+    type: 'video',
+    title: 'blu3',
+    subtitle: 'listen together with friends in real-time.',
     link: '',
-    image: '/preview/trackyou.png',
+    image: '/preview/blu3.mp4',
     textColor: '#010101ff',
     logoImage: true,
-    locked: true
   },
 
 
@@ -39,11 +38,11 @@ export const projectData: Project[] = [
   },
   {
     id: 1,
-    type: 'image',
-    title: 'Moco',
-    subtitle: 'The Trading Newspaper',
+    type: 'video',
+    title: 'gluwi',
+    subtitle: 'Ai-code editor',
     link: '/moco',
-    image: '/preview/moco.png',
+    image: '/preview/gluwi.mp4',
     textColor: '#010101ff',
     logoImage: true,
   },
@@ -483,5 +482,3 @@ export const projectPageData: ProjectPageData[] = [
   },
 
 ]
-
-
