@@ -102,15 +102,15 @@ const Home = ({ activity }: { activity: LanyardResponse | undefined }) => {
             >
               About
             </h3>
-            <p className="mb-4 md:w-[70%] w-full leading-[1.35]">
+            <p className="mb-5 md:w-[75%] w-full leading-[1.35]">
               {
-                " A full-stack developer who builds scalable applications people actually use. He loves creating creative frontends, while scaling backends. Passionate about real-world problems, I'm constantly exploring new ideas—whether it's for smoother user experience or user's enjoyment. I currently studying Computer Engineering at VGEC, Ahmedabad. If you have an interesting idea, please   "
+                " Full-stack developer who builds scalable applications people actually use, from real-time backends to interactive, detail-oriented frontends. Currently building blu3, a real-time collaborative music platform with 200+ active users, and gluwi, a desktop AI coding agent  always looking for the next idea worth shipping. Ahmedabad. If you have an interesting idea, "
               }{" "}
               <Link
                 href="mailto:heetvavadiya099@gmail.com"
                 className="hover:text-[#FDE037] hover:border-b hover:border-[#FDE037] border-dotted cursor-pointer"
               >
-                get in touch↗.
+                let's talk↗.
               </Link>
             </p>
 
