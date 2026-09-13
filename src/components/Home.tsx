@@ -31,7 +31,7 @@ const creativity = [
 const socials = [
   {
     name: "Twitter",
-    link: "https://www.twitter.com/realbluex/",
+    link: "https://x.com/bluwixyz",
   },
   {
     name: "Instagram",
@@ -39,11 +39,11 @@ const socials = [
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/heetvavadiya/",
+    link: "https://www.linkedin.com/in/xrealblue/",
   },
   {
     name: "Github",
-    link: "https://www.github.com/xrealblue/",
+    link: "https://github.com/bluwwi",
   },
 ];
 
@@ -55,9 +55,9 @@ const Home = ({ activity }: { activity: LanyardResponse | undefined }) => {
     url: "https://realblue.lol",
     jobTitle: "Full Stack Developer",
     sameAs: [
-      "https://github.com/xrealblue",
-      "https://linkedin.com/in/heetvadiya",
-      "https://twitter.com/realbluex",
+      "https://github.com/bluwwi",
+      "https://www.linkedin.com/in/xrealblue/",
+      "https://x.com/bluwixyz",
     ],
     knowsAbout: [
       "Web Development",

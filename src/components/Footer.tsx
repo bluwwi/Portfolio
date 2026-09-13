@@ -3,10 +3,9 @@ import Link from "next/link";
 import React, { useState, useEffect, useRef } from "react";
 
 const socials = [
-
   {
     name: "Twitter",
-    link: "https://www.twitter.com/realbluex/",
+    link: "https://x.com/bluwixyz",
   },
   {
     name: "Instagram",
@@ -14,11 +13,11 @@ const socials = [
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/heetvavadiya/",
+    link: "https://www.linkedin.com/in/xrealblue/",
   },
   {
     name: "Github",
-    link: "https://www.github.com/xrealblue/",
+    link: "https://github.com/bluwwi",
   },
 ];
 
