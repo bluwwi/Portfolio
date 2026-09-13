@@ -30,7 +30,7 @@ const Navbar = () => {
         </div>
 
         <div className="text-left w-[40%] md:w-[55%] items-center flex">
-          <div className="hidden md:block">Ahemdabad,IN</div>
+          <div className="hidden md:block">{"Surat, In"}</div>
         </div>
 
         {!isHome && (
